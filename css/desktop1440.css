@@ -1,0 +1,17 @@
+.payment-card{
+    max-width: 28%;
+    margin-top: 116px;
+}
+
+.payment-card header img{
+    height: 180px;
+}
+main p{
+    margin: 0 32px 24px 32px;
+}
+.plan{
+    margin: 0 32px 24px 32px;
+}
+.button-container{
+    padding: 0 32px 24px 32px;
+}
